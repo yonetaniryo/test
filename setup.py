@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="test",
+    name="notebook_test",
     version="0.1.0",
     description="test",
     author="Ryo Yonetani",
